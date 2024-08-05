@@ -24,7 +24,7 @@ int main(){
     scanf("%d",&guess);
   }
 
-  printf("You have enterted %d which is correct.\n Congratulation you won!!!");
+  printf("You have enterted %d which is correct.\n Congratulation you won!!!",guess);
   
   return 0;
 }
